@@ -10,6 +10,7 @@ It covers the following operating systems:
 
 - Windows
 - Mac
+- Linux
 
 
 It assumes you will be writing papers, developing code, sharing
@@ -32,10 +33,13 @@ We cover two sets of tools:
 
 If you are starting from scratch, having not used a text editor, this
 guide will show you how to use [NeoVim](https://neovim.io/) for writing and coding.
+There are many ways to set this up. What follows uses the
+[LazyVim](https://www.lazyvim.org/) starter kit.
 
 
 - [Setting up NeoVim and LaTex on Windows](Windows_Neovim_LazyVim_Python_Vimtex_Guide.pdf)
 - [Setting up NeoVim and LaTex on Mac](macOS_Neovim_LazyVim_Python_Vimtex_Guide.pdf)
+- [Setting up NeoVim and LaTex on Linux](Ubuntu_Neovim_LazyVim_Python_Vimtex_Guide.pdf)
 
 
 Once you have Neovim setup, you can [Learn Vim in 1 hour](Learn_Vim_1_Hour_Handout.pdf).
@@ -45,6 +49,8 @@ Once you have Neovim setup, you can [Learn Vim in 1 hour](Learn_Vim_1_Hour_Hando
 
 - [miniforge on Windows](Windows_Miniforge_Conda_Environments_Guide.pdf)
 - [miniforge on Mac OS X](macOS_Miniforge_Conda_Environments_Guide.pdf)
+- [miniforge on Linux](Ubuntu_Miniforge_Conda_Environments_Guide.pdf)
+
 
 
 
