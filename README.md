@@ -53,5 +53,10 @@ Once you have Neovim setup, you can [Learn Vim in 1 hour](Learn_Vim_1_Hour_Hando
 
 
 
+## Using Virtualbox
 
+On windows (and to a lesser extent Mac) you may want to run linux inside
+virtualbox.
+
+- [virtualbox on windows](Ubuntu_VirtualBox_Setup_Guide.pdf)
 
